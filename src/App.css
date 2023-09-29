@@ -1,0 +1,30 @@
+.bigNav {
+  list-style-type: none;
+  display: inline;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+
+.bigNarbar {
+  color:white;
+  background-color:bisque;
+  width: 1250px;
+  height: 200px;
+  font: white;
+  font-size:xx-large;
+  font-family:Arial, Helvetica, sans-serif;
+  
+
+
+  
+}
+
+.selectBtntwo {
+  border-radius: 20px;
+  font-size: x-large;
+  border-color:whitesmoke;
+  color:black;
+  background-color: whitesmoke;
+}
